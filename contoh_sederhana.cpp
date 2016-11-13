@@ -23,7 +23,7 @@ int main()
     */
     cout << "Masukkan jumlah mahasiswa: ";
     cin >> n;
-    fo.open("mhs.dat", ios::binary | ios::app);
+    fo.open("mahasiswa.dat", ios::binary | ios::app);
     for(int i=1; i<=n; i++)
     {
         cout << "\nMahasiswa " << i;
