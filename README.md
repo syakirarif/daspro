@@ -5,8 +5,7 @@ Howdy, there!
 Ini adalah repository yang sengaja saya buat untuk menunjang pengerjaan tugas proyek UAS Mata Kuliah Dasar Pemrograman.
 
 
-# library
-Pastikan anda mendeklarasikan library berikut:
+# gunakan library sbb:
 1. iostream
 2. windows.h
 3. fstream
