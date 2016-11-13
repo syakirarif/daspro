@@ -38,7 +38,7 @@ int main()
     /**
     * kode dibawah ini adalah untuk read data dari file.
     */
-    fi.open("mhs.dat", ios::binary);
+    fi.open("mahasiswa.dat", ios::binary);
     int j = 1;
     while(fi.read((char *) &mhs, sizeof(mhs)))
     {
@@ -53,7 +53,7 @@ int main()
     */
     cout << "\nMasukkan nim yang mau dicari: ";
     cin >> carinim;
-    fi.open("mhs.dat", ios::binary);
+    fi.open("mahasiswa.dat", ios::binary);
     while(fi.read((char *) &mhs, sizeof(mhs)))
     {
         if(strcmp(mhs.nim, carinim) == 0)
