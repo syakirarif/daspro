@@ -24,4 +24,5 @@ int nimDicari;
     else
         cout<<"Mahasiswa dengan NIM "<<nimDicari<<" TIDAK DITEMUKAN!"<<endl;
     system("pause");
-    lihat();
+
+    lihatData();  //Ganti syntax ini menjadi syntax untuk memanggil fungsi lihat data yang telah anda buat!
