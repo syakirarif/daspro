@@ -2,7 +2,7 @@
 
 Howdy, there!
 
-Ini adalah repository yang sengaja saya buat untuk menunjang pengerjaan tugas proyek UAS Mata Kuliah Dasar Pemrograman.
+Ini adalah repository yang sengaja kami buat untuk menunjang pengerjaan tugas proyek UAS Mata Kuliah Dasar Pemrograman.
 
 
 # gunakan library sbb:
@@ -30,5 +30,7 @@ char namaFile[30]="database.dat";
 
 
 Semoga dapat membantu.. :)
-Best Regards,
+
+Best Regards.
+
 Syakir Arif
