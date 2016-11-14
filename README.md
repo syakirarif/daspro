@@ -19,9 +19,13 @@ Agar pengelolaan data lebih mudah, digunakanlah class sederhana
 Gunakan syntax berikut untuk mendeklarasikan fstream:
 
 ifstream fi;
+
 ofstream fo;
+
 fstream fa;
+
 int n;
+
 char namaFile[30]="database.dat";
 
 # catatan
