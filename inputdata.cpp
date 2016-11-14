@@ -2,7 +2,7 @@ int banyak;
     cout<<"Amount of students: ";
     cin>>banyak;
 
-    for(int a=1; a<=byk; a++)
+    for(int a=1; a<=banyak; a++)
     {
         system("cls");
         data.inputData();
