@@ -4,6 +4,8 @@ Howdy, there!
 
 Ini adalah repository yang sengaja kami buat untuk menunjang pengerjaan tugas proyek UAS Mata Kuliah Dasar Pemrograman.
 
+# IDE yang saya gunakan untuk proyek C++ ini:
+CODE::BLOCKS IDE
 
 # gunakan library sbb:
 1. iostream
